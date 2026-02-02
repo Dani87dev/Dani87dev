@@ -12,7 +12,8 @@ At the same time, I am starting a Bachelor’s Degree in Computer Engineering, w
 - Goal: write clear, maintainable backend code that solves real problems.
 
 ### 🛠️ Tech stack  
-Languages: Java ☕ | SQL  
-Frameworks: Spring Boot  
-Tools: Git | GitHub  
-Databases: MySQL | PostgreSQL
+- 💻 Languages: Java | SQL  
+- 🌱 Frameworks: Spring Boot  
+- 🔧 Version control: Git | GitHub  
+- 🗄️ Databases: MySQL | MongoDB
+
