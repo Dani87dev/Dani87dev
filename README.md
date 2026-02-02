@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dani  
-## 💻 Junior Backend Developer · ☕ Java · 🌱 Spring Boot · 🗄️ SQL · 🔧 Git
+### 💻 Junior Backend Developer · ☕ Java · 🌱 Spring Boot · 🗄️ SQL · 🔧 Git
 
 I hold a Higher Vocational Degree in Multiplatform Application Development (FP DAM) and I am currently strengthening my backend skills through a Java Backend Bootcamp.
 
