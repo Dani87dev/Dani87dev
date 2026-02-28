@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dani  
+#  Hi, I'm Dani  
 ### 💻 Junior Backend Developer · ☕ Java · 🗄️ SQL · 🔧 Git
 
 I hold a Higher Vocational Degree in Multiplatform Application Development (FP DAM).
