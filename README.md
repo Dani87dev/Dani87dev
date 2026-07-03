@@ -3,9 +3,9 @@
 
 I hold a Higher Vocational Degree in Multiplatform Application Development (FP DAM).
 
-I am currently specializing in backend development through structured training focused on Java fundamentals and the Spring ecosystem.
+I have completed a Java backend bootcamp and a FinTech Backend microcredential (CaixaBank Tech, UPC School), building solid skills in Java fundamentals and the Spring ecosystem.
 
-At the same time, I am beginning a Bachelor’s Degree in Computer Engineering, building a strong foundation in computer science fundamentals such as data structures, algorithms and system design.
+At the same time, I am in my second year of a Bachelor's Degree in Computer Engineering, building a strong foundation in computer science fundamentals such as data structures, algorithms and system design.
 
 ### 🚀 Current focus
 - Strengthening my understanding of backend architecture.
